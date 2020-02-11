@@ -33,7 +33,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="@string/activity_albums_title"
+            android:text="@string/activity_detail_title"
             android:textColor="@color/color_EFA747"
             android:textSize="20dp"
             app:layout_constraintBottom_toBottomOf="@+id/view_title_bar"
