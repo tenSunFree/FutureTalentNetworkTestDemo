@@ -13,8 +13,8 @@ https://developer.github.com/v3/
 --------
 <p align="left">
   <img src="https://i.imgur.com/J9hQdab.png" width="230"/>
-  <img src="https://i.imgur.com/KF89FEq.png" width="230"/>
-  <img src="https://i.imgur.com/s97nCXW.png" width="230"/>
+  <img src="https://i.imgur.com/XtLxVbV.png" width="230"/>
+  <img src="https://i.imgur.com/v7OmyJQ.png" width="230"/>
 </p> 
 
 備註
